@@ -1,1 +1,2 @@
-# CODSOFT This repository contains all tasks completed during the codsoft UI/UX Summer Virtual Internship 2026
+# CODSOFT UI/UX INTERNSHIP
+This repository contains all tasks completed during the codsoft UI/UX Summer Virtual Internship 2026
