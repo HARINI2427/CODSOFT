@@ -1,7 +1,6 @@
 # CODSOFT UI/UX INTERNSHIP
 This repository contains all tasks completed during the codsoft UI/UX Summer Virtual Internship 2026
-
-
+##
 # Task 1 - Mobile App Signup Flow
 
 ## Description
@@ -30,7 +29,7 @@ https://www.figma.com/proto/rAyH3eH83IQiWQZhRW1pHI/Untitled?node-id=0-1&t=QnXwtW
 - Secure
 
 - Task 1 completed on: 14th may 2026
-- 
-- ##proof
+
+##proof
 - video1 link:https://drive.google.com/file/d/1eyln3iLwXDyjHB8TNl3vFAlO6MSYcdyd/view?usp=sharing
 - video2 link:https://drive.google.com/file/d/1c71Qd8_rFjySEh4yb55U_3kKyFSmD-zi/view?usp=sharing
