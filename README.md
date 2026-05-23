@@ -43,7 +43,7 @@ https://www.figma.com/proto/rAyH3eH83IQiWQZhRW1pHI/Untitled?node-id=0-1&t=QnXwtW
 I designed a Email Template - Newsletter
 
 ## Demo
-
+https://www.figma.com/proto/rAyH3eH83IQiWQZhRW1pHI/Untitled?node-id=87-21&t=qsasG7qROvs2BH1N-1
 
 ## Design Principles followed
 - Visually appealing
