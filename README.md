@@ -22,9 +22,6 @@ https://www.figma.com/proto/rAyH3eH83IQiWQZhRW1pHI/Untitled?node-id=0-1&t=QnXwtW
 - otp page- for verification
 - congo page- tells the user that they have signed in successfully
 
-## Reference
-Youtube- Design Ghost youtube channel
-
 ## Design Principles followed
 - Short and sweet
 - Personalized
@@ -46,9 +43,6 @@ I designed a Email Template - Newsletter
 
 ## Demo
 https://www.figma.com/proto/rAyH3eH83IQiWQZhRW1pHI/Untitled?node-id=29-10&t=qsasG7qROvs2BH1N-1
-
-## Reference
-Claude AI
 
 ## Design Principles followed
 - Visually appealing
