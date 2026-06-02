@@ -69,5 +69,3 @@ https://www.figma.com/proto/rAyH3eH83IQiWQZhRW1pHI/Untitled?node-id=87-22&t=SN14
 ## proof
 
 ##
-
-## proof
