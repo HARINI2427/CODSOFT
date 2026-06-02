@@ -49,6 +49,25 @@ https://pixso.net/app/design/puN3kibhuAzbXRWWCehcLw?icon_type=1&page-id=0%3A1&t=
 ## proof
 
 ##
+#  Task 4- E-commerce Website
+## Description
+A E-commerce website designed in figma with 9 Pages:
+- E-commerce website page
+- about & contact us page
+- pricing page
+- cart page
+- home decor page
+- perfumes & cosmetics page
+- new arrival page
+- trending page
+- spring sale page
+## Demo
+https://www.figma.com/proto/rAyH3eH83IQiWQZhRW1pHI/Untitled?node-id=87-22&t=SN14lidm1QVkMviI-1
+##
+- Task 4 completed on: 2nd june 2026
+##
+## proof
 
+##
 
 ## proof
